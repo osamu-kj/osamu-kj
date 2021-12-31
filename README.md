@@ -1,1 +1,1 @@
-> :bulb: **Short Description:** Student interested in <b>Programming</b>, <b>Cyber Security</b>, <b>Language Learning</b> and <b>Video Editing</b>.
+> :bulb: **Short Description:** Student interested in <font color="blue"><b>Programming</b></font>, <font color="green"><b>Cyber Security</b></font>, <font color="purple"><b>Language Learning</b></font> and <font color="red"><b>Video Editing</b></font>.
