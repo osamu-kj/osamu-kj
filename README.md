@@ -22,4 +22,4 @@
 
 ***
 
-<img src="https://www.computersciencedegreehub.com/wp-content/uploads/2016/02/what-is-coding-1024x683.jpg" alt="coding image"/>
+<img src="https://www.bgosoftware.com/blog/wp-content/uploads/2016/03/insidepost_coding.jpg" alt="coding image"/>
