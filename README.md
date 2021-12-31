@@ -1,6 +1,6 @@
 # About Me
 
-> :bulb: **Short Description:** Student interested in ==<b>Programming</b>, <b>Cyber Security</b>, <b>Language Learning</b> and <b>Video Editing</b>==.\
+> :bulb: **Short Description:** Student interested in <b>Programming</b>, <b>Cyber Security</b>, <b>Language Learning</b> and <b>Video Editing</b>.\
 > :crossed_flags: **Languages:** Slovenian, Italian, English, Russian, Japanese\
 > :fire: **Skills:** Web Development, Game Development, Pentesting,
 ***
