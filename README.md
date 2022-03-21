@@ -16,9 +16,6 @@
 | Project      | Description |
 | ----------- | ----------- |
 | <a href="http://kevintheadminman.epizy.com">Personal Webiste</a>      | Updating my portfolio website **(update still not online), for now only the old version**</b> |
-| <a href="https://seqroshare-project.web.app/">Seqroshare</a> \| <a href="https://github.com/osamu-kj/seqroshare">Source code</a>   | Open source platform where people can anonymously <b>share/keep</b> their diaries, ask for opinions, help with their problems, etc. |
-| <a href="https://github.com/osamu-kj/Linux-Notes">Linux Notes</a> | Notes about linux, how it works, tricks, .. |
-| <a href="https://www.youtube.com/channel/UCICp0q6JpR_9yeICzj9mBkA">Osamu Channel</a> | Youtube channel where I upload random content like gaming, funny moments, memes, .. |
 
 ***
 
