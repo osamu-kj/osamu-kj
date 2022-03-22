@@ -19,4 +19,3 @@
 | <a href="https://github.com/osamu-kj/FGMS">FGMS</a>      | Financial Goods Management System \[Angular\]</b> |
 | <a href="https://github.com/osamu-kj/">Not hosted online yet</a>      | My Linux</b> |
 
-***
