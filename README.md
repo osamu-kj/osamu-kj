@@ -20,5 +20,3 @@
 | <a href="https://github.com/osamu-kj/">Not hosted online yet</a>      | My Linux</b> |
 
 ***
-
-<img src="https://www.bgosoftware.com/blog/wp-content/uploads/2016/03/insidepost_coding.jpg" alt="coding image"/>
