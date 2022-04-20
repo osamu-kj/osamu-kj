@@ -21,6 +21,3 @@
 | ----------- | ----------- |
 | <a href="http://kevintheadminman.epizy.com">Personal Webiste</a>      | Updating my portfolio website **(update still not online), for now only the old version**</b> |
 | <a href="https://image-editor-pi.vercel.app/">Image Editing Project</a> | Small project built on top of React and Sanity.io that allows you to store images online and edit them |
-| <a href="https://github.com/osamu-kj/">Not hosted online yet</a>      | My Linux</b> |
-| <a href="https://github.com/osamu-kj/SeqChat">SeqChat</a>      | Pet centralized project built on top of Angular, Node.JS and MongoDB that enables users to chat</b> |
-
