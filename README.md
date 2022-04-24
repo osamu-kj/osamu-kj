@@ -6,16 +6,11 @@
 > :fire: **Skills:** Web Development, Ethical Hacking, Kernel Development, Scripting\
 > :heart_on_fire: **Future Skills:** Blockchain Development, Web3.0, Exploit Development\
 > :love_you_gesture: **Hobbies:** Languages, Japan, Anime, Video Editing, Music, Running\
-> :crossed_flags: **Languages:** Slovenian, Italian, English, Russian, Japanese
+> :crossed_flags: **Languages:** Slovenian, Italian, English, Russian, Japanese\
+> 📝 **Social Media:** <a href="https://www.youtube.com/channel/UCICp0q6JpR_9yeICzj9mBkA">Youtube Channel</a>, <a href="http://kevintheadminman.epizy.com">Personal Website</a>, <a href="https://www.instagram.com/kevinj____/">Instagram</a>, <a href="https://tryhackme.com/p/Osamu">TryHackMe</a>
 ***
 
-# Contacts 
-
-<a href="https://www.youtube.com/channel/UCICp0q6JpR_9yeICzj9mBkA">Youtube Channel</a> |
-<a href="http://kevintheadminman.epizy.com">Personal Website</a> |
-<a href="https://www.instagram.com/kevinj____/">Instagram</a>
-
-# My Current Projects 
+# Portfolio🔥
 
 | Project      | Description |
 | ----------- | ----------- |
