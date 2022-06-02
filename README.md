@@ -14,7 +14,8 @@
 
 | Project      | Description |
 | ----------- | ----------- |
-| <a href="http://kevintheadminman.epizy.com">Personal Webiste</a>      | Updating my portfolio website **(update still not online), for now only the old version**</b> |
+| <a href="http://kevintheadminman.epizy.com">Personal Website</a>      | Updating my portfolio website **(update still not online), for now only the old version**</b> |
+| <a href="https://github.com/osamu-kj/RuntimeMessageRouting">Runtime Message Routing - Apache Camel</a> | Solution I built to solve a major issue I encountered when dealing with dynamic routing in Apache Camel. |
 | <a href="https://image-editor-pi.vercel.app/">Image Editor</a> | Small project built on top of React and Sanity.io that allows you to store images online and edit them |
 | <a href="https://chat-app-gamma-beige.vercel.app/">Chat App</a> | Small project built on top of React and Google Firebase that (as the name suggests) allows you to chat with other ppl. | 
 | <a href="https://github.com/osamu-kj/StopBloat">Stop Bloat</a> | Python script that is meant to automate the process of removing your android bloatware (from a linux machine) | 
