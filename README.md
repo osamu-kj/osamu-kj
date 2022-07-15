@@ -19,3 +19,4 @@
 | <a href="https://image-editor-pi.vercel.app/">Image Editor</a> | Small project built on top of React and Sanity.io that allows you to store images online and edit them |
 | <a href="https://chat-app-gamma-beige.vercel.app/">Chat App</a> | Small project built on top of React and Google Firebase that (as the name suggests) allows you to chat with other ppl. | 
 | <a href="https://github.com/osamu-kj/StopBloat">Stop Bloat</a> | Python script that is meant to automate the process of removing your android bloatware (from a linux machine) | 
+| <a href="https://github.com/osamu-kj/2DMathExpressions">2DMathExpressions</a> | Programming challenge that converts given math expression (string) into a tree and displays it to the end user | 
